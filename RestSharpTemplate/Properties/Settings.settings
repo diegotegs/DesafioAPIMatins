@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RestSharpTemplate.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="REPORT_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RestSharpTemplate</Value>
+    </Setting>
+    <Setting Name="REPORT_SUBSTRING_LENGTH" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">29</Value>
+    </Setting>
+    <Setting Name="DB_CONNECTION_TIMEOUT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="AUTHENTICATOR_USER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">usuarioAuthentication</Value>
+    </Setting>
+    <Setting Name="AUTHENTICATOR_PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">senhaAuthentication</Value>
+    </Setting>
+    <Setting Name="URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.168.99.100:8989</Value>
+    </Setting>
+    <Setting Name="TOKEN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">aGU5l_OqRxM-bv-B2oQ3zV1oxyAXrCNr</Value>
+    </Setting>
+    <Setting Name="DB_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="DB_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.99.100</Value>
+    </Setting>
+    <Setting Name="DB_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bugtracker</Value>
+    </Setting>
+    <Setting Name="DB_USER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DB_PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

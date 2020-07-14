@@ -1,0 +1,18 @@
+{
+  "id": "idProjeto",
+  "name": "$nomeProjeto",
+  "status": {
+    "id": "$idStatus",
+    "name": "$nomeStatus",
+    "label": "$labelStatus"
+  },
+  "description": "$descricao",
+  "enabled": "enabled",
+  "view_state": {
+    "id": "idState",
+    "name": "$nameState",
+    "label": "$labelState"
+  }
+
+  
+}

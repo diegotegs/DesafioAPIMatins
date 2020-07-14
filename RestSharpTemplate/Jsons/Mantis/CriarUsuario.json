@@ -1,0 +1,9 @@
+{
+  "username": "$usuario",
+  "password": "$senha",
+  "real_name": "$nome",
+  "email": "$email",
+  "access_level": { "name": "updater" },
+  "enabled": true,
+  "protected": false
+}

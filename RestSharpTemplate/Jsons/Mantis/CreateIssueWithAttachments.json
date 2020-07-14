@@ -1,0 +1,31 @@
+{
+  "summary": "$summary",
+  "description": "$description",
+  "project": {
+    "id": 1,
+    "name": "$name"
+  },
+  "category": {
+    "id": 5,
+    "name": "$categoryName"
+  },
+  "custom_fields": [
+    {
+      "field": {
+        "id": 4,
+        "name": "$fieldName"
+      },
+      "value": "$value"
+    }
+  ],
+  "files": [
+    {
+      "name": "$filename",
+      "content": "$fileContent"
+    },
+    {
+      "name": "$fileName2",
+      "content": "$fileContent2"
+    }
+  ]
+}
